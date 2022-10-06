@@ -246,7 +246,7 @@ Multiply two digits given by the user.
 
 Read the two digits from stdin, multiply them, and print the result, followed by a new line
 ___
-
+         ***************DONE*************
 ## **Author:**
 ### ***Esrom Brhane Abrha***
 
